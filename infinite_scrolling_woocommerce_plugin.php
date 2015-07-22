@@ -2,7 +2,7 @@
 /*
 Plugin Name: Infinite Ajax Scrolling Lite For Woocommerce
 Plugin URI: http://phoeniixx.com/
-Description: There is a tendency to scroll down till one reaches the end of a web page. Infinite Scrolling Plugin uses this insight. It allows the user to scroll down as much as he/she wants, on a category page of an ecommerce site. 
+Description: There is a tendency to scroll down till one reaches the end of a web page. Infinite Scrolling Plugin uses this insight. 
 Author: Phoeniixx Team
 Author URI: http://phoeniixx.com/
 Version: 1.0

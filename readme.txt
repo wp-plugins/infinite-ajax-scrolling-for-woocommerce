@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-There is a tendency to scroll down till one reaches the end of a web page. Infinite Scrolling Plugin uses this insight. It allows the user to scroll down as much as he/she wants, on a category page of an ecommerce site. 
+There is a tendency to scroll down till one reaches the end of a web page. Infinite Scrolling Plugin uses this insight. 
 
 == Description ==
 
