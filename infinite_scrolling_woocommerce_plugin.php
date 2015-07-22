@@ -6,9 +6,10 @@ Description: There is a tendency to scroll down till one reaches the end of a we
 Author: Phoeniixx Team
 Author URI: http://phoeniixx.com/
 Version: 1.0
-
 */
+
 ob_start();
+
 if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) 
 {
 	
