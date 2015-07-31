@@ -21,6 +21,16 @@ This feature is all the more useful when one is viewing the website on a smartph
 2. You can upload a loader image of your choice also.
 
 
+**Pro Features:**
+
+1. You could select Types of Pagination (Infinite Scrolling, Load More Button, Ajax Pagination)
+2. You could choose a Loader from the options given OR could Upload a Loader Image
+3. You could pick a Loading effect from the given choices: **Zoom in, Bounce in, Fade in, Fade in from top to down, Fade in from down to top, Fade in from right to left, Fade in from left to right**
+4. Following Styling Options are available for your choice: **"Load more" button text, "Load more" button hover color, "Load more" button text color, "Load more" button hover text color**
+
+**Premium Plugin Link** - [Premium Version](http://www.phoeniixx.com/product/infinite-ajax-scrolling-for-woocommerce/)
+
+
 **Support**
 
 **Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
