@@ -3,7 +3,7 @@
 Plugin Name: Infinite Ajax Scrolling Lite For Woocommerce
 Plugin URI: http://phoeniixx.com/
 Description: There is a tendency to scroll down till one reaches the end of a web page. Infinite Scrolling Plugin uses this insight. 
-Author: Phoeniixx Team
+Author: Phoeniixx
 Author URI: http://phoeniixx.com/
 Version: 1.0
 License: GPLv2 or later
