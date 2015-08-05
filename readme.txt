@@ -1,5 +1,5 @@
 === Infinite Ajax Scrolling Lite For Woocommerce  ===
-Contributors: Phoeniixx Team
+Contributors: Phoeniixx
 URL: http://phoeniixx.com/
 Tags: Infinite Ajax Scrolling Lite For Woocommerce, phoeniixx, woocommerce, woocommerce plugins, infinite scrolling, infinite, scrolling, scroll, ecommerce, load more
 Requires at least: 4.0
