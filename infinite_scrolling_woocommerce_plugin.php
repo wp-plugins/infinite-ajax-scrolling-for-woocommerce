@@ -5,7 +5,7 @@ Plugin URI: http://phoeniixx.com/
 Description: There is a tendency to scroll down till one reaches the end of a web page. Infinite Scrolling Plugin uses this insight. 
 Author: phoeniixx
 Author URI: http://phoeniixx.com/
-Version: 1.0
+Version: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -22,7 +22,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 	function infinite_scroll_header_function()
 	{
 	  
-		if(get_option('scrolling_status') == 'on') 
+		if( get_option('scrolling_status') == 'on' && ( is_shop() || is_product_category() ) ) 
 		{
 		
 			update_option('posts_per_page',12,'yes');
