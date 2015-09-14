@@ -59,7 +59,7 @@ This feature is all the more useful when one is viewing the website on a smartph
 == Screenshots ==
 
 1. This Screenshot shows how products loads on your site.
-2. This Screenshot shows Admin settings of this plugin. 
+2. This Screenshot shows Admin settings of this plugin. Enter the values as it is. 
 
 
 == Changelog ==
