@@ -29,7 +29,8 @@ This feature is all the more useful when one is viewing the website on a smartph
 3. You could pick a Loading effect from the given choices: **Zoom in, Bounce in, Fade in, Fade in from top to down, Fade in from down to top, Fade in from right to left, Fade in from left to right**
 4. Following Styling Options are available for your choice: **"Load more" button text, "Load more" button hover color, "Load more" button text color, "Load more" button hover text color**
 
-**Premium Plugin Link** - [Premium Version](http://www.phoeniixx.com/product/infinite-ajax-scrolling-for-woocommerce/)
+
+**Premium Plugin Link** - [Premium Version](http://www.phoeniixx.com/product/infinite-ajax-scrolling-for-woocommerce/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org)
 
 
 **Support**
@@ -40,7 +41,7 @@ This feature is all the more useful when one is viewing the website on a smartph
 
 **Ticket system** - [Click here](http://www.phoeniixx.com/support)
 
-**Website** - [phoeniixx.com](http://www.phoeniixx.com)
+**Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)
 
 
 == Installation ==
