@@ -35,7 +35,7 @@ This feature is all the more useful when one is viewing the website on a smartph
 
 **Support**
 
-**Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
 
 **Skype** - phoeniixx.tarun
 
