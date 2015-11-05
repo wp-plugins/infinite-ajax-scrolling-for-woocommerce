@@ -4,7 +4,7 @@ URL: http://phoeniixx.com/
 Tags: Infinite Ajax Scrolling Lite For Woocommerce, phoeniixx, woocommerce, woocommerce plugins, infinite scrolling, infinite, scrolling, scroll, ecommerce, load more
 Requires at least: 4.0
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
