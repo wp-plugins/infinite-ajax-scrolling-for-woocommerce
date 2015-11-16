@@ -3,8 +3,8 @@ Contributors: phoeniixx
 URL: http://phoeniixx.com/
 Tags: Infinite Ajax Scrolling Lite For Woocommerce, phoeniixx, woocommerce, woocommerce plugins, infinite scrolling, infinite, scrolling, scroll, ecommerce, load more
 Requires at least: 4.0
-Tested up to: 4.2.2
-Stable tag: 1.2
+Tested up to: 4.3.1
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,7 @@ This feature is all the more useful when one is viewing the website on a smartph
 2. You could choose a Loader from the options given OR could Upload a Loader Image
 3. You could pick a Loading effect from the given choices: **Zoom in, Bounce in, Fade in, Fade in from top to down, Fade in from down to top, Fade in from right to left, Fade in from left to right**
 4. Following Styling Options are available for your choice: **"Load more" button text, "Load more" button hover color, "Load more" button text color, "Load more" button hover text color**
+
 
 **Premium Plugin Link** - [Premium Version](http://www.phoeniixx.com/product/infinite-ajax-scrolling-for-woocommerce/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org)
 
@@ -63,6 +64,12 @@ This feature is all the more useful when one is viewing the website on a smartph
 
 
 == Changelog ==
+
+= 1.3 - 16/11/2015 =
+* Bug fixes.
+
+= 1.2 - 19/10/2015 =
+* Bug fixes.
 
 = 1.1 - 06/08/2015 =
 * Fix - Compatibility issues.
