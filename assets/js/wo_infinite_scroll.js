@@ -80,6 +80,10 @@
                     $( '.scroll-loader' ).remove();
 					
 					product_unit.fadeTo(2000,1,function() { under_loading = false;});
+					
+					$('body').trigger('wo_infinite_scroll_loading_finished', [product_unit]);
+                  
+                 
 
                 }
             });
