@@ -80,16 +80,10 @@
                     $( '.scroll-loader' ).remove();
 					
 					product_unit.fadeTo(2000,1,function() { under_loading = false;});
-			
-					if ( typeof wc_add_to_cart_variation_params !== 'undefined' ) {
- 						
- 						product_unit.find( '.variations_form' ).each( function() {
- 							
- 							$( this ).wc_variation_form().find('.variations select:eq(0)').change();
- 						
- 						});
- 						
- 					}
+					
+					$('body').trigger('wo_infinite_scroll_loading_finished', product_unit);
+                  
+                 
 
                 }
             });
